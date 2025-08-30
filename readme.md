@@ -35,4 +35,4 @@ Features start, stop, reset, lap, and clear lap functionalities, with a modern c
 ![Stopwatch Screenshot](stopwatch_ss.png)  
 
 
-**Made by [sravan_venkata]**
+**Made by sravan_venkata**
