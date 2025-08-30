@@ -32,14 +32,7 @@ Features start, stop, reset, lap, and clear lap functionalities, with a modern c
 
 ## Screenshots
 
-![Stopwatch Screenshot](screenshot.png)  
-*(Add your own screenshot if desired)*
+![Stopwatch Screenshot](stopwatch_ss.png)  
 
-## Customization
-
-- Change colors and sizes in `watch.css` to fit your style.
-- Adjust timer logic in `watch.js` for more features.
-
----
 
 **Made by [sravan_venkata]**
